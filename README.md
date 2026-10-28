@@ -39,6 +39,10 @@
 ### Core skills
 
 ❯ Python
+
 ❯ Linux administration
+
 ❯ Web pentesting
+
 ❯ Traffic analisys
+
